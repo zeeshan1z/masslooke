@@ -1,6 +1,7 @@
 
+I can copy this repo of his dev. sanjidtk
 
-
+And ican modify some part of this
 
 Mass Looker ,it’s a console-based script created for massvoting (mass poll voting) and masslooking stories
 
@@ -20,6 +21,8 @@ Mass Looker ,it’s a console-based script created for massvoting (mass poll vot
    - Increasing profile visits
    - Incredible reach
    
+
+
 # Installation
 
 MassLooker requires [PHP](https://www.php.net/) 5.6 to run.
